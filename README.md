@@ -2,26 +2,26 @@
 
 <p align="center">
    <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-    <img align="center" height="150" width="150"src="https://infinitelyteaching.files.wordpress.com/2019/09/download-11.gif"/>
-      <img align="center" height="150" width="150"src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif"/>
-   <!--\ <img align="center" height="150" width="150"src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"/>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   <img height="400" width="800" src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/custom%20bg.png">
    </a>
-</p> -->
+</p> 
 <h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hii there 👋</h1>
  
    I am a B.Tech undergrad at Delhi Technological  University, Bawana road Delhi  pursuing Electronics and communication Engineering .  I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
+   
+   <p align="center">
+   <a>
+   <img height="300" width="600" src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/AnyPatternsQns/4yN9.gif">
+   <img height="300" width="200" src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif">
+   </a>
+</p> 
  
    ## About Me (Intro) ~
    <p align="center">
   <p align="left">
    <a>
- <img align='right' src='https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif'  width="200" height="200" >
- 
-    
+ <img align='right' src='https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/AnyPatternsQns/22365f9afcee9c9679584a624093aa75.gif'  width="200" height="200" >
 
-     
 
    -  Skills: C++/ C/ Kotlin/ Python
    - 🔭 I’m currently working on Android Development and pacticing DSA. 
@@ -129,7 +129,7 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 ![GitHub metrics](https://metrics.lecoq.io/Mugdha-Hazra)  
 
 
-<!-- [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mugdha-Hazra)  -->
+<!-- [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siddharthsingh025)  -->
 <!-- <h2 align="center">My Contribution Streak !! :fire:</h2>  -->
 
 <!-- <p align="center">
