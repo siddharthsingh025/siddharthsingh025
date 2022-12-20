@@ -11,8 +11,8 @@
    
    <p align="center">
    <a>
-   <img height="300" width="600" src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/AnyPatternsQns/4yN9.gif">
-   <img height="300" width="200" src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif">
+   <img height="200" width="400" src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/AnyPatternsQns/4yN9.gif">
+   <img height="200" width="160" src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif">
    </a>
 </p> 
  
