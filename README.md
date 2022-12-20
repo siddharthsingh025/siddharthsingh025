@@ -48,23 +48,30 @@
  
    ## 📲 Connect with me on social media 
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
- <img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230">
-   <!--<img align='right' src="https://media.giphy.com/media/UHcOaIi6nuCwhoGRPz/giphy.gif" width="230"> -->
-<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </p></h3>
-<p align="left">
+<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </h3>
+<p align="center">
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mugdha2hazra) 
+   <a>
+   <a target="_blank"href="https://github.com/siddharthsingh025"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/github-2.png"  width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+   
+   <a href="https://twitter.com/SIDDHARTH1709D"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/twitter.png" width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+      
+   </a>
+   </p> 
 
-<p align="left">
+
+<!-- <p align="center"> -->
    <!-- ---------------------------------------------------------------- -->
-    <a target="_blank"href="https://github.com/Mugdha-Hazra"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a href="https://twitter.com/HazraMugdha"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a target="_blank"href="https://www.linkedin.com/in/mugdha-hazra-602347200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   <a target="_blank"href="https://www.facebook.com/mugdha.hazra.5/"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-    <a target="_blank"href="https://www.instagram.com/mugdha4455/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-    <a href="https://medium.com/@mugdha2hazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mugdha2hazra" height="30" width="40" /></a>
+<!--    
+   <a>
+    <a target="_blank"href="https://github.com/siddharthsingh025"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/github-2.png"  width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+   
+   <a href="https://twitter.com/SIDDHARTH1709D"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/twitter.png" width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+      
+   </a> -->
+   
    <!-- ---------------------------------------------------------------- -->
-</p>
+<!-- </p> -->
 
 ## 💻 Tools and languages I work with
 <img align="left" height="100" width="100" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="230"/>
