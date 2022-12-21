@@ -82,9 +82,9 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 
 <p align="center">
    <a>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+   <img height="150" width="150" src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/L_wing.png">
    <img align="center" src="https://streak-stats.demolab.com?user=siddharthsingh025&theme=github-dark"/>
-   <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+   <img height="150" width="150" src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/R_wingh.png">
    </a>
 </p>
 
