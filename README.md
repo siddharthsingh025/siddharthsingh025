@@ -50,9 +50,12 @@
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
  
  <p align = "center">
+   <a>
+   <img height="200" width="200" src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/cen.png">
+   </a>
    <br/>
    <br/>
-   <a target="_blank"href="https://github.com/siddharthsingh025"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/github-2.png"  width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/SIDDHARTH1709D"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/twitter.png" width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank"href="https://github.com/siddharthsingh025"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/github-2.png"  width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/SIDDHARTH1709D"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/twitter.png" width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/siddharth_singh025/"><img src ="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/icons8-instagram-200.png" width="100" height ="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/siddharth-singh-71210021b/"><img src ="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/icons8-linkedin-144.png" width="100" height ="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    </p>
  
  
