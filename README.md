@@ -107,9 +107,11 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=siddharthsingh025&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-
+<img align="right" width="300" height="300" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 ![GitHub metrics](https://metrics.lecoq.io/siddharthsingh025)  
 
 ![Profile views](https://gpvc.arturio.dev/siddharthsingh025)  
+
+<img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/lion00-2.svg">
 
 
