@@ -90,4 +90,16 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
    </a>
 </p>
 
+## Something that you want to know 😈:
+
+<table>
+   <tr>
+      <td rowspan=2>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsingh025&theme=dark" align="center"/>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=siddharthsingh025&count_private=true&theme=dark&show_icons=true" align="center"/></td>
+   </tr>
+</table>
 
