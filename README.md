@@ -5,7 +5,7 @@
    <img height="400" width="800" src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/ISDDBG.png">
    </a>
 </p> 
-<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hii there 👋</h1>
+<h1>  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> Hii there 👋 , I M SIDD</h1>
  
    I am a B.Tech undergrad at Delhi Technological  University, Bawana road Delhi  pursuing Electronics and communication Engineering .  I am a keen learner and love gathering knowledge about new things, technologies and improve my skills with every passing day. I love to connect with new people and admire everyone having a passion for coding.
    
