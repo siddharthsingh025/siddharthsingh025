@@ -78,7 +78,9 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
    <img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/icons8-figma-48.png"/>
 </div>
 
-<h2 align="center"> :fire My Contribution Streak !! :fire:</h2>
+</br>
+
+<h2 align="center"> 🔥 My Contribution Streak !! 🔥</h2>
 
 <p align="center">
    <a>
