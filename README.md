@@ -58,22 +58,24 @@
    <a target="_blank"href="https://github.com/siddharthsingh025"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/github-2.png"  width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/SIDDHARTH1709D"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/twitter.png" width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/siddharth_singh025/"><img src ="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/icons8-instagram-200.png" width="100" height ="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/siddharth-singh-71210021b/"><img src ="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/icons8-linkedin-144.png" width="100" height ="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    </p>
  
- 
-<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </h3>
+<h3 align="center">Let's be friends and get connected!!  </h3>
 
-<!-- <p align="center"> -->
-   <!-- ---------------------------------------------------------------- -->
-<!--    
-   <a>
-    <a target="_blank"href="https://github.com/siddharthsingh025"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/github-2.png"  width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   
-   <a href="https://twitter.com/SIDDHARTH1709D"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/twitter.png" width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-      
-   </a> -->
-   
-   <!-- ---------------------------------------------------------------- -->
-<!-- </p> -->
 
 ## 💻 Tools and languages I work with
+
+<div align items="left">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img 
+src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="36" height="36"/>  <img 
+  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="50" height="50"/>  <img                                                     src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> <img 
+  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
+   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+   <img src="https://img.icons8.com/color/48/000000/json--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+   <img src="https://img.icons8.com/color/48/000000/git.png"/>
+   <img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/github-2.png" height ="45" width="45"/>
+   <img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/518713.png" height ="45" width="45"/>
+      <img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/5968520.png" height ="45" width="45"/>
+   <img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/icons8-figma-48.png"/>
+</div>
 
 
