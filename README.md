@@ -103,3 +103,13 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
    </tr>
 </table>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=siddharthsingh025&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+![GitHub metrics](https://metrics.lecoq.io/siddharthsingh025)  
+
+![Profile views](https://gpvc.arturio.dev/siddharthsingh025)  
+
+
