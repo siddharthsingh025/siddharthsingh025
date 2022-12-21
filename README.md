@@ -112,5 +112,13 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
 
 ![Profile views](https://gpvc.arturio.dev/siddharthsingh025)  
 
-<img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/lion00-3.svg">
+## My contribution graph get eaten by the snake 🐍:
+<table>
+   <tr>
+      <td><img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='600"'></td>
+      <td><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/lion00-3.svg" height ="250" width ="400"></td>
+   </tr>
+   
+   
+</table>
 
