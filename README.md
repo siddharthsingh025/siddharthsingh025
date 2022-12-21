@@ -48,17 +48,15 @@
  
    ## 📲 Connect with me on social media 
  #### I'm a programmer and an insightful learner who is passionate about growing in teams with dreams.
+ 
+ <p align = "center">
+   <br/>
+   <br/>
+   <a target="_blank"href="https://github.com/siddharthsingh025"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/github-2.png"  width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/SIDDHARTH1709D"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/twitter.png" width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   </p>
+ 
+ 
 <h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="50px" /> Let's be friends and get connected!!  </h3>
-<p align="center">
-
-   <a>
-   <a target="_blank"href="https://github.com/siddharthsingh025"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/github-2.png"  width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-   
-   <a href="https://twitter.com/SIDDHARTH1709D"><img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/twitter.png" width = "100" height = " 100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-      
-   </a>
-   </p> 
-
 
 <!-- <p align="center"> -->
    <!-- ---------------------------------------------------------------- -->
