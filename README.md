@@ -63,7 +63,7 @@
 
 ## 💻 Tools and languages I work with
 
-<div align items="left">
+<div align = "center">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img 
 src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="36" height="36"/>  <img 
   src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="Kotlin" width="50" height="50"/>  <img                                                     src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> <img 
@@ -76,6 +76,13 @@ src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" a
    <img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/518713.png" height ="45" width="45"/>
       <img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/5968520.png" height ="45" width="45"/>
    <img src="https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/TIme_Space_complexity/icons8-figma-48.png"/>
+   <img height="50" width="50"  src="https://github.com/siddharthsingh025/MyPortfolio/blob/main/images/5-Top-advantages-of-using-Golang-programming-language.jpg.webp"/>
+   <img height="50" width="50" src="https://github.com/siddharthsingh025/MyPortfolio/blob/main/images/Moby-logo-sm.webp">
+   
+   
+</div>
+<div align = "center">
+<img height="200" width="800" src="https://github.com/siddharthsingh025/MyPortfolio/blob/main/images/images.jpeg">
 </div>
 
 </br>
