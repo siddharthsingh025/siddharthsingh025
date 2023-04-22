@@ -23,9 +23,9 @@
  <img align='right' src='https://github.com/siddharthsingh025/JAVA--Basics--Concepts/blob/master/src/AnyPatternsQns/22365f9afcee9c9679584a624093aa75.gif'  width="200" height="200" >
 
 
-   -  Skills: C++/ C/ Kotlin/ Python
-   - 🔭 I’m currently working on Android Development and pacticing DSA. 
-   - 🌱 I’m currently learning Android Dev.
+   -  Skills: Java / Go / C++ / Linux 
+   - 🔭 I’m exploring DevOps and cloud-native technologies.
+   - 🌱 I’m good at android development
    - 👯 I’m looking to collaborate on Open Source Contributions. 
    - 💬 Ask me about Problem-solving and DSA. 
  
